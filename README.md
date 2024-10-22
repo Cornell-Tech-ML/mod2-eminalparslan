@@ -81,12 +81,12 @@ Time per epoch: 0.101s.
 - Learning rate: 0.5
 - Epochs: 200
 
-![XOR dataset](assets/XOR.png)
+![XOR dataset](assets/xor.png)
 
-![XOR loss](assets/XOR_loss.png)
+![XOR loss](assets/xor_loss.png)
 
-![XOR table](assets/XOR_table.png)
-![XOR table 2](assets/XOR_table2.png)
+![XOR table](assets/xor_table.png)
+![XOR table 2](assets/xor_table2.png)
 
 Time per epoch: 0.132s.
 
